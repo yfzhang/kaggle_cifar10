@@ -1,0 +1,6 @@
+.idea/
+data/
+logs/
+checkpoint/
+*.csv
+__pycache__/
